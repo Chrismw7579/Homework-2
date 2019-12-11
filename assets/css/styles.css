@@ -1,0 +1,16 @@
+.images {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    background-color: #4aaaa5;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+#submit {
+    background-color: #4aaaa5;
+}
